@@ -1,0 +1,43 @@
+body {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    background-image: url(https://media.architecturaldigest.com/photos/579a7a7eb6c434ab487bc166/master/pass/bold-automotive-headquarters-rival-design-cars-03.png);
+  }
+  .maindiv{
+    height: 600px;
+    width: 500px;
+    border: solid 2px rgb(213, 212, 212);
+    padding: 20px;
+    margin-top: 150px;
+    margin-left: 200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    padding-top: 50px;
+  }
+  .maindiv2{
+    height: 350px;
+    width: 500px;
+    border: solid 2px rgb(213, 212, 212);
+    padding: 20px;
+    margin-top: 150px;
+    margin-left: 200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+  }
+  .edit{
+    background-color: rgb(11, 152, 11);
+    height: 40px;
+    width: 70px;
+  }
+  .delete{
+    background-color: red;
+    height: 40px;
+    width: 70px;
+  }
+  .headder{
+    background-color: rgb(132, 193, 132);
+  }
+  .read{
+    margin: 25px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+  }
